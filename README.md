@@ -1,5 +1,7 @@
 # Ruby LLM Telegram Bot
 
+From your friends at [spacebarlabs.com](https://spacebarlabs.com)
+
 This Rails application implements a Telegram bot powered by OpenRouter for AI interactions. It provides a simple interface for users to interact with various AI models through Telegram.
 
 ## Requirements
@@ -144,6 +146,10 @@ openrouter_api_key: your_test_api_key_here
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
+## Warranty
+
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
 ## License
 
